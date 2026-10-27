@@ -1,0 +1,15 @@
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/bin/Debug/net10.0/semana 11 grisel
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/bin/Debug/net10.0/semana 11 grisel.deps.json
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/bin/Debug/net10.0/semana 11 grisel.runtimeconfig.json
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/bin/Debug/net10.0/semana 11 grisel.dll
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/bin/Debug/net10.0/semana 11 grisel.pdb
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/semana 11 grisel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/semana 11 grisel.AssemblyInfoInputs.cache
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/semana 11 grisel.AssemblyInfo.cs
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/semana 11 grisel.csproj.CoreCompileInputs.cache
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/semana 11 grisel.sourcelink.json
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/semana 11 grisel.dll
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/refint/semana 11 grisel.dll
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/semana 11 grisel.pdb
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/semana 11 grisel.genruntimeconfig.cache
+/Users/arianita16/Desktop/semana 11 grisel/semana 11 grisel/obj/Debug/net10.0/ref/semana 11 grisel.dll
